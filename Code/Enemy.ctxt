@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=target\ level
+comment1.target=Enemy(Tower,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ attackTime()
+comment4.params=
+comment4.target=void\ checkHitTower()
+comment5.params=
+comment5.target=void\ getNewTarget()
+comment6.params=damage
+comment6.target=void\ dealDamage(double)
+numComments=7

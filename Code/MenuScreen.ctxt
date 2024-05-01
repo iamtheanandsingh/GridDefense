@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MenuScreen
+comment1.params=
+comment1.target=MenuScreen()
+comment2.params=gameWorld\ scoreManager
+comment2.target=MenuScreen(GameWorld,\ ScoreManager)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ stopped()
+comment5.params=
+comment5.target=void\ started()
+numComments=6

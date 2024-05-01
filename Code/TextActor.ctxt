@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TextActor
+comment1.params=text\ size\ fontColor\ backgroundColor\ duration
+comment1.target=TextActor(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ isShowing()
+comment4.params=
+comment4.target=void\ forceRemove()
+numComments=5

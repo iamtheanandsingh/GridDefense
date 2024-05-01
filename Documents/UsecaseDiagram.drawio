@@ -1,0 +1,42 @@
+<mxfile host="app.diagrams.net" modified="2024-04-14T18:15:54.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="uRyx5P8BORujTTwQKOXb" version="24.2.5" type="github">
+  <diagram name="Page-1" id="aPDsPozhJBxOZM2u_-Ck">
+    <mxGraphModel dx="1393" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-mli_jYUkip-dH_8QiHV-2" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="170" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="-mli_jYUkip-dH_8QiHV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-mli_jYUkip-dH_8QiHV-1" target="-mli_jYUkip-dH_8QiHV-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="440" />
+              <mxPoint x="200" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-mli_jYUkip-dH_8QiHV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-mli_jYUkip-dH_8QiHV-1" target="-mli_jYUkip-dH_8QiHV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mli_jYUkip-dH_8QiHV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-mli_jYUkip-dH_8QiHV-1" target="-mli_jYUkip-dH_8QiHV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-mli_jYUkip-dH_8QiHV-1" value="Player" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="410" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-mli_jYUkip-dH_8QiHV-3" value="Defend Against Enemy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-mli_jYUkip-dH_8QiHV-4" value="Tower Engagement" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-mli_jYUkip-dH_8QiHV-5" value="Place Tower" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-mli_jYUkip-dH_8QiHV-6" value="GotG" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
